@@ -22,6 +22,16 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 	font-style: normal;
 }
 
+@font-face {
+  font-family: 'Orbitron';
+  src: url('../fonts/orbitron-light.otf') format('opentype');
+}
+
+.centauri-logo {
+  font-family: Orbitron;
+  font-size: 50px !important;
+}
+
 [class^="icon-"]:before, [class*=" icon-"]:before {
 	font-family: "icons";
 	font-style: normal;

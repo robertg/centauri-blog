@@ -1,23 +1,23 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Centauri Labs
+description: Centauri Development Blog
+meta_description: "Centauri Development Blog"
 
-aboutPage: true
+aboutPage: false
 
 markdown: redcarpet
 highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+domain_name: 'http://blog.centauri.io'
+google_analytics: 'UA-53407740-4'
+disqus: true
+disqus_shortname: 'centauri'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'http://blog.centauri.io'
+author:         'Centauri Labs'
+authorTwitter:  'rgawdzik'
 
 permalink:       /:year/:title/
 
